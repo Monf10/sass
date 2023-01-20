@@ -1,0 +1,13 @@
+$paragraphColor: orange;
+$textFontSize: 18px;
+$divWidth: 680px;
+
+
+//გლობალური კლასი უნდა შექმნათ % ის დახმარებით
+
+
+%btn{
+    width: $divWidth;
+    border: none;
+    background-color:$paragraphColor ;
+}
